@@ -138,6 +138,9 @@ footer {
 footer a {
     font-size: 13px;
 }
+.hidden {
+    visibility: hidden;
+}
 @media (max-width: 800px) {
     .fast-shipping {
       margin-left: 0;
